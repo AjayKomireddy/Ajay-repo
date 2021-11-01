@@ -1,28 +1,4 @@
-/* Our CSS file. 
 
-.container, .content {
-    width: 100%;
-    }
-    div{
-        height:auto;
-        width:100%;
-        display: inline-block;
-
-    }
-    .container1 {
-        vertical-align: top;
-        width: 80%;
-        display: inline-block;
-    }
-    .image{
-        width: 50%;
-        display: inline-block;
-    }
-    h1 {
-        text-align:center;
-        display: inline-block;
-          
-    }*/
 
     .container, .content {
         width: 100%;
