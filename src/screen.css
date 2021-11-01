@@ -1,6 +1,40 @@
-/* Our CSS file. */
-
+/* Our CSS file. 
 
 .container, .content {
-width: 100%;
-}
+    width: 100%;
+    }
+    div{
+        height:auto;
+        width:100%;
+        display: inline-block;
+
+    }
+    .container1 {
+        vertical-align: top;
+        width: 80%;
+        display: inline-block;
+    }
+    .image{
+        width: 50%;
+        display: inline-block;
+    }
+    h1 {
+        text-align:center;
+        display: inline-block;
+          
+    }*/
+
+    .container, .content {
+        width: 100%;
+        }
+        .container1 {
+            width: 50%;
+            float: left;
+        }
+        .container2 {
+            text-align:center;
+            width: 50%;
+            float: left;
+            margin-top: 15%;  
+        }
+    
